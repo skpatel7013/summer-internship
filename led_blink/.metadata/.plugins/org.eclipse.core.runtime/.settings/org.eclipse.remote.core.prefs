@@ -1,0 +1,16 @@
+connections/org.eclipse.remote.serial.core.connectionType/sample/serial.baudRate=6
+connections/org.eclipse.remote.serial.core.connectionType/sample/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/sample/serial.parity=1
+connections/org.eclipse.remote.serial.core.connectionType/sample/serial.portName=COM7
+connections/org.eclipse.remote.serial.core.connectionType/sample/serial.stopBits=0
+connections/org.eclipse.remote.serial.core.connectionType/sample2/serial.baudRate=6
+connections/org.eclipse.remote.serial.core.connectionType/sample2/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/sample2/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/sample2/serial.portName=COM7
+connections/org.eclipse.remote.serial.core.connectionType/sample2/serial.stopBits=0
+connections/org.eclipse.remote.serial.core.connectionType/samplew/serial.baudRate=11
+connections/org.eclipse.remote.serial.core.connectionType/samplew/serial.byteSize=3
+connections/org.eclipse.remote.serial.core.connectionType/samplew/serial.parity=0
+connections/org.eclipse.remote.serial.core.connectionType/samplew/serial.portName=COM3
+connections/org.eclipse.remote.serial.core.connectionType/samplew/serial.stopBits=0
+eclipse.preferences.version=1

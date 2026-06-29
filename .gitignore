@@ -1,0 +1,74 @@
+# =========
+# Global
+# =========
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.iml
+
+.env
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========
+# STM32CubeIDE / Eclipse (common generated content)
+# =========
+
+# Launch/config files
+*.launch
+*.cfg
+
+# Build outputs (per project)
+Debug/
+Release/
+
+# Generated build artifacts (CubeIDE typically)
+*.elf
+*.map
+*.list
+
+# Generated make/build files
+makefile
+objects.list
+objects.mk
+sources.mk
+
+# CubeIDE/IAR/others scratch
+*.iux
+
+# Project metadata
+.cproject
+.mxproject
+.project
+
+# =========
+# Node/Gradle/Android (for subfolders like teaching projects)
+# =========
+
+.gradle/
+build/
+out/
+
+# =========
+# Arduino
+# =========
+
+# Arduino-generated temp/build folders (if present)
+*.tmp
+
+# =========
+# Misc
+# =========
+
+# secrets (avoid committing secrets if present)
+*secrets*.h
+
